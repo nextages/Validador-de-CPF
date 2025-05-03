@@ -12,7 +12,7 @@ programa
 		leia(parte_final)
 		escreva("Digite os números verificadores: ")
 		leia(parte_digitos)
-		escreva("CPF: " + parte_inicial + "." + parte_meio + "." + parte_final + "-" + parte_digitos)
+		escreva("CPF: " + parte_inicial + "." + parte_meio + "." + parte_final + "-" + parte_digitos
 	}
 }
 /* $$$ Portugol Studio $$$ 
